@@ -4,7 +4,6 @@ import RightSidebar from '@/components/rightSidebar';
 import { useComponentStore } from '@/store/useComponentsStore';
 import { renderComponent } from '@/utils/renderComponent';
 import { Box, Flex, Center, Button, Input, Heading } from 'native-base';
-import React from 'react';
 import {
   DragDropContext,
   Droppable,

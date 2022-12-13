@@ -112,6 +112,26 @@ By clicking on a component containing children, you will see a Children panel ap
 
 ---
 
+## How to use it ?
+
+1 : Clone this repository.
+
+```console
+gh repo clone aryasoni98/Codeless-Builder
+cd Codeless-Builder
+```
+2 : **Install `npm`**
+```
+npm install 
+```
+
+3 : **Run the `run` command**
+```
+npm run dev
+```
+
+---
+
 ### Project Admin ❤️
 
 <table>
