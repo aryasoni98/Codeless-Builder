@@ -132,6 +132,20 @@ npm run dev
 
 ---
 
+### Docker Image
+
+1 : Build docker image
+```console
+docker build . -t ghcr.io/codeless-builder/codeless-builder
+```
+
+2 : Run docker image
+
+```console
+docker run -p 3000:3000 ghcr.io/codeless-builder/codeless-builder
+```
+---
+
 ### Project Admin ❤️
 
 <table>
@@ -146,11 +160,6 @@ npm run dev
 </table>
 
 ---
-
-## Maintainers ☀️
-
-| [@Adarsh Anand](https://github.com/AdarshAnand67)| [@Sudhir Sharma](https://www.linkedin.com/in/sudhirsharma87/)|
-|--------|---------------|
 
 ## How to Contribute
 
@@ -175,16 +184,3 @@ This project exists thanks to all the people who contribute.
 </table>
 
 ---
-
-## Project Select Program
-
-<table>
-    <td align="center">
-      <p>
-        <img src="https://fossoverflow.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.4bd48c29.png&w=1920&q=75" width="150px" alt="" /><br><a href="https://fossoverflow.dev"> FOSS Overflow </a>
-    </td>
-    <td align="center">
-      <p>
-        <img src="https://www.codepeak.tech/static/media/logo.33a91fcb.png" width="150px" alt="" /><br><a href="https://www.codepeak.tech"> CODEPEAK </a>
-    </td>
-</table>
