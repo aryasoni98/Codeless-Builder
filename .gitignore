@@ -56,3 +56,6 @@ yarn-error.log*
 /.pnp
 .pnp.js
 # @end @expo/next-adapter
+
+# Local Netlify folder
+.netlify

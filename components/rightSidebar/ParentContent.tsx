@@ -1,5 +1,4 @@
 import { Flex, Text } from 'native-base'
-import React from 'react'
 import { FiSettings } from 'react-icons/fi'
 
 export default function ParentContent() {
