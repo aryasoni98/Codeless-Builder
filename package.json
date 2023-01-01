@@ -10,7 +10,7 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
-    "@expo/next-adapter": "^2.1.11",
+    "@expo/next-adapter": "^2.1.83",
     "@native-base/icons": "^0.0.11",
     "@react-native-aria/checkbox": "^0.2.3",
     "babel-install": "^2.1.0",
