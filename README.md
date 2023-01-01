@@ -47,6 +47,8 @@ Javascript | ReactJS | NextJS | VueJS | Typescript | NodeJS | ExpressJS | MongoD
 - Export 4 frameworks ( ReactJS, VueJS, NextJs, Typescript)
 - Build Mobile View / Web View
 - Build Static & Dynamic Website
+- Database & API Integration
+- SEO / SMO / Google Kits
 - Production Ready Code
 
 ---
@@ -116,17 +118,27 @@ By clicking on a component containing children, you will see a Children panel ap
 
 1 : Clone this repository.
 
+- Github CLI
 ```console
-gh repo clone aryasoni98/Codeless-Builder
-cd Codeless-Builder
+gh repo clone Codeless-Builder/Builder
+cd Builder
 ```
+- HTTPS
+
+```console
+git clone https://github.com/Codeless-Builder/Builder.git
+cd Builder
+```
+
 2 : **Install `npm`**
-```
+
+```console
 npm install 
 ```
 
 3 : **Run the `run` command**
-```
+
+```console
 npm run dev
 ```
 
