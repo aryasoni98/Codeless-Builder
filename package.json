@@ -1,5 +1,5 @@
 {
-  "name": "@native-base/nextjs-template-typescript",
+  "name": "builder",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -65,5 +65,33 @@
     "start-server-and-test": "^1.15.2",
     "typescript": "4.5.2",
     "webpack": "^5.75.0"
-  }
+  },
+  "description": "<div align=\"center\" style=\"display:flex;flex-direction:column;\">   <a href=\"https://openCodeless.app\">     <img src=\"./.github/images/logo.gif\" alt=\"Codeless Builder\" />   </a> </div>",
+  "version": "1.0.0",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codeless-Builder/Builder.git"
+  },
+  "keywords": [
+    "Codeless",
+    "Builder",
+    "Drag",
+    "&",
+    "Drop",
+    "Dashboard",
+    "UI",
+    "Elements",
+    "ReactJS",
+    "NextJS",
+    "VueJS",
+    "Typescript",
+    "etc."
+  ],
+  "author": "Arya Soni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Codeless-Builder/Builder/issues"
+  },
+  "homepage": "https://github.com/Codeless-Builder/Builder#readme"
 }
