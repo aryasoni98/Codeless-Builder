@@ -50,7 +50,7 @@ const HomePage = () => {
               >
                 <ImageBackground
                   source={{
-                    uri: '/images/mockup.png',
+                    uri: '',
                   }}
                   resizeMode='cover'
                   style={{
